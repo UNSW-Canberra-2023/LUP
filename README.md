@@ -15,7 +15,10 @@ The project requires the following packages to be installed:
 - torchxrayvision==1.2.1 
 * All requirements can be found in the requirements.txt.
 ## Citation
-Please cite our paper (and the respective papers on the methods used) if you use this code in your work:
+Please cite our paper (and the respective papers on the methods used) if you use this code in your work:  
+ W. Issa, N. Moustafa, B. Turnbull et al., DT-BFL: Digital Twins for Blockchain-enabled Federated Learning in Internet of Things Networks, 
+ Ad Hoc Networks (2025),
+doi: https://doi.org/10.1016/j.adhoc.2025.103934.
 
 
 
